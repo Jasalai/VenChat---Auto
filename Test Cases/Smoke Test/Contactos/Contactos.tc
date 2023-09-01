@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Este caso de prueba deberia de poder 
+Visualizar
+
+
+Agregar
+
+
+Seleccionar un contacto - Chat P2P
+
+Validar que sea posible visualizar contactos que utilizan venchat
+Validar que sea posible agregar nuevo contacto
+Validar que se tenga acceso a la opción &quot;Nuevo Grupo&quot;
+Validar que se pueda seleccionar  un contacto e iniciar un chat</description>
+   <name>Contactos</name>
+   <tag>smoke, contactos</tag>
+   <comment></comment>
+   <testCaseGuid>82b9d3ba-2679-430e-88a5-68afdf00213a</testCaseGuid>
+</TestCaseEntity>
